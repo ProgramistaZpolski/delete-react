@@ -10,3 +10,8 @@ A firefox plugin that deletes a website if it uses react - it even works with Ga
 | Gatsby         	| Blocks        	|
 | Next           	| Blocks        	|
 | VulcanJS       	| Does not work 	|
+
+# TODO
+Block vulcanjs
+
+Make a PHP version
