@@ -9,9 +9,7 @@ A firefox plugin that deletes a website if it uses react - it even works with Ga
 | React          	| Blocks        	|
 | Gatsby         	| Blocks        	|
 | Next           	| Blocks        	|
-| VulcanJS       	| Does not work 	|
+| VulcanJS       	| Blocks        	|
 
 # TODO
-Block vulcanjs
-
 Make a version for PHP that deletes a file if it contains react
