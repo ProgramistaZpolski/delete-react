@@ -14,4 +14,4 @@ A firefox plugin that deletes a website if it uses react - it even works with Ga
 # TODO
 Block vulcanjs
 
-Make a PHP version
+Make a version for PHP that deletes a file if it contains react
